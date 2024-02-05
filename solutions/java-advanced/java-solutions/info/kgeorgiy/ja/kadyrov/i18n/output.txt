@@ -1,0 +1,39 @@
+Analyzed file "C:\Users\hedwi\Desktop\tears of happiness\java-advanced-2023-main\solutions\java-advanced\java-solutions\info\kgeorgiy\ja\kadyrov\i18n\input.txt"
+Summary Statistics
+	Number of sentences: 26
+	Number of words: 126
+	Number of numbers: 36
+	Number of dates: 6
+Sentence statistics
+	Number of sentences: 26 (different 26)
+	Minimum sentence: Анализируемый файл "input.txt"
+Сводная статистика
+    Число предложений: 43.
+    
+	Maximum sentence: Число чисел: 40.
+    
+	Minimum sentence length: 15
+	Maximum sentence length: 151
+	Average sentence length: 51
+Word statistics
+	Number of words: 126 (different 57)
+	Minimum word: GK
+	Max word: языках
+	Minimum word length: 1
+	Max word length: 14
+	Average word length: 6
+Number statistics
+	Number of numbers: 36 (different 23)
+	Minimum number: -12345.0
+	Max number: 12345.67
+	Average: 605.8758611111111
+Amount of money statistics
+	Number of amounts: 3 (different 3)
+	Minimum amount: 100,00 ₽
+	Maximum amount: 1 200,00 ₽
+	Average amount: 613,33 ₽
+Date statistics
+	Number of dates: 6 (different 3)
+	Minimum date: Fri May 19 00:00:00 MSK 2023
+	Max date: Fri Jun 02 00:00:00 MSK 2023
+	Average date: Fri May 26 00:00:00 MSK 2023
